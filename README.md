@@ -2,4 +2,5 @@
  portfoli website backend part (frontent is copied)
  frontend is copied and changed
  
- backend- node.js, express, ejs, postgresql, 
+ backend- node.js, express, ejs
+ Database - postgresql, 
